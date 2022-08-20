@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AliFattah
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: e-mail: fattah.ali79@gmail.com
 
 <!---
