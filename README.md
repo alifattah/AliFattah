@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alifattah
+- 👋 Hi, I’m Ali Fattah
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: e-mail: alifattah.dev@gmail.com
